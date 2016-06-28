@@ -1,0 +1,10 @@
+body{
+background-color :lightblue;
+}
+.outerbox{
+border: 2px  solid green;
+border-radius: 10px;
+text-align:center;
+margin: auto;
+
+}
